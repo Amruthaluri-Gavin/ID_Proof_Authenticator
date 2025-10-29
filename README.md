@@ -2,8 +2,6 @@
 
 A web application built with Streamlit that verifies a user's identity by comparing a live photo from their webcam against their ID card. This app uses facial recognition for matching and OCR to extract text from supported ID cards.
 
-![Demo Gif (Coming Soon)]() ## Features
-
 * **Interactive Web UI:** Built with Streamlit for a simple and easy-to-use interface.
 * **Live Webcam Capture:** Uses `st.camera_input` to capture a live selfie for verification.
 * **Dual Verification Mode:**
